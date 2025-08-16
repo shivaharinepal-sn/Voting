@@ -1,0 +1,2 @@
+# Voting
+TALENT HUNT VOTING PAGE
